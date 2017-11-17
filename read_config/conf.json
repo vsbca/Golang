@@ -1,0 +1,4 @@
+{
+    "Users" : ["virendra","James"],
+    "Wordpress" : ["/usr/share/wordpress","/var/www/wordpress"]
+}
